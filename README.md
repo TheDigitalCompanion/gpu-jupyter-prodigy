@@ -1,4 +1,4 @@
-# GPU-Jupyter
+# GPU-Jupyter-Prodigy
 #### Leverage Jupyter Notebooks with the power of your NVIDIA GPU and perform GPU calculations using Tensorflow and Pytorch in collaborative notebooks. 
 
 ![Jupyterlab Overview](https://raw.githubusercontent.com/iot-salzburg/gpu-jupyter/master/extra/jupyterlab-overview.png)
